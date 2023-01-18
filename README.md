@@ -1,7 +1,7 @@
 ## Fala DEVS, meu nome é Vitor Sanches, sou estudante e desenvolvedor nessa 'maravilhosa' área da programação!!
 <div align="center">
-  <a href="https://github.com/SanchesVitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanchesVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/sanchesvitor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchesvitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
