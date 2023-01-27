@@ -1,8 +1,9 @@
 ## Fala DEVS, meu nome é Vitor Sanches, sou estudante e desenvolvedor nessa 'maravilhosa' área da programação!!
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sanchesvitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchesvitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
+## **Essas são algumas das tecnologias que estou estudando e desenvolvendo no momento!!**
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +17,7 @@
 </div>
   
   ##
-  ## Estou iniciando meus estudos em React.js, React Native e Node.Js --- Aceito dicas e sugestões! 🧐✌
+  ### Estou iniciando meus estudos em React.js, React Native e Node.Js --- Aceito dicas e sugestões! 🧐✌
  
 <div> 
   <a href="https://www.instagram.com/vitor_sanchees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
