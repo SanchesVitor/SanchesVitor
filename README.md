@@ -1,11 +1,14 @@
-<img align="right" height="470em" src=https://raw.githubusercontent.com/gist/SanchesVitor/84362fe0979bfda4d3385c72680d2bcf/raw/ea163d4ace0646070a13a4d8c0341d2c7061df78/githubcard.svg/>
+<img align="right" height="500em" src=https://raw.githubusercontent.com/gist/SanchesVitor/84362fe0979bfda4d3385c72680d2bcf/raw/ea163d4ace0646070a13a4d8c0341d2c7061df78/githubcard.svg/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor Sanches</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanchesVitor&color=yellow" alt="Profile views" /> </p>
+<br>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SanchesVitor&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanchesVitor&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchesVitor&layout=compact&hide_title=true&hide_border=true&bg_color=060A0CD0&text_color=5BCDEC"/>
 </div>
+
+<br> <br> <br>
  
 <h2 align="center">🛠️&ensp; <i>T A C  S T A C K</i> &ensp;🛠️</h2>
 <p align="center">
