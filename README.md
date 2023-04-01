@@ -13,7 +13,7 @@
 <h2 align="center">🛠️&ensp; <i>T A C  S T A C K</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,docker,express,postgres,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,typescript,docker,express,postgres,mysql" />
   </a>
 </p>
   
