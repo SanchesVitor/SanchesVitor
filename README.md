@@ -43,7 +43,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,ts,mysql,postgres,prisma)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,notion,powershell,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,notion,powershell,vercel)](https://skillicons.dev)
 
 
 
