@@ -5,9 +5,9 @@
 </p>
 
 ## Sobre mim
-- 💡 Atualmente trabalho como Arquiteto de Soluções de TI - PL
+- 💡 Atualmente trabalho como Especialista de Soluções de TI
 - 📖Formado em Analise e Desenvolvimento de Sistemas.
-- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
+- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack, juntamente com SAP B1.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
